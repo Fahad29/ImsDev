@@ -1,2 +1,2 @@
 # ImsDev
-Inventory Management System With AI Features
+Inventory Management System With AI Features.
